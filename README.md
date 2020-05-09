@@ -28,10 +28,13 @@ The dataset was normalised (standardised) using Z-score normalisation. The datas
 
 - For logistic regression without regularisation, with weights initalised to all zeroes, learning rate = 0.8 , number of iterations = 1500, an accuracy of 99.27 and f-score of 99.25 was achieved on the test set. The final weights for this model were (including bias term): <br> </br>
 [[-2.277894 ], [-6.41902018], [-6.67073906], [-6.19920365], [ 0.27300584]]
+ <br> </br>
 - For logistic regression with L1 regularisation, with learning rate = 0.04 , regularisation parameter = 0.02, number of iterations = 1500, an accuracy of 96.00 and f-score of 95.78 was achieved on the test set. The final weights for this model were (including bias term): <br> </br>
 [[-1.65585554e-01], [-2.27335876e+00], [-1.70111197e+00], [-1.34845301e+00], [1.33475071e-03]] 
+ <br> </br>
 - For logistic regression with L2 regularisation, with learning rate = 0.04 , regularisation parameter = 0.04, number of iterations = 1500, an accuracy of 97.09 and f-score of 96.87 was achieved on the test set. The final weights for this model were (including bias term): <br> </br>
 [[-0.28227054], [-1.70082037], [-1.21894639], [-0.91768412], [ 0.05752311]]
+ <br> </br>
 
 
 ## Conclusion
