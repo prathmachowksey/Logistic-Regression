@@ -13,7 +13,7 @@ In this project, a logistic regression model has been developed for the [Bank No
     - Entropy
     - Class (Dependent Attribute)
 
-- Sample data points:
+- Sample data points
         - 3.6216, 8.6661, -2.8073, -0.44699, 0 
         - 4.5459, 8.1674, -2.4586, -1.4621, 0 
         - 0.4283, -0.94981 ,-1.0731 ,0.3211, 1 
